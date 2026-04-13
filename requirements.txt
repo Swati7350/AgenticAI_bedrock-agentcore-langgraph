@@ -1,0 +1,8 @@
+bedrock-agentcore>=1.0.7
+bedrock-agentcore-starter-toolkit>=0.2.0
+chromadb==0.5.5
+langchain-community>=0.4.1
+langchain-groq>=1.1.0
+langchain[aws]>=1.1.0
+langgraph>=1.0.4
+langgraph-checkpoint-aws>=1.0.1
