@@ -1,4 +1,4 @@
-# AgenticAI_bedrock-agentcore-langgraph
+<img width="1229" height="386" alt="image" src="https://github.com/user-attachments/assets/8d8430ab-358f-49e9-84d0-16c85a29bc0f" /># AgenticAI_bedrock-agentcore-langgraph
 Agentic AI application built using AWS Bedrock AgentCore and LangGraph, supporting RAG workflows with Titan embeddings and LLM orchestration.
 
 # ⚠️ Key Issues Faced
@@ -106,7 +106,7 @@ agentcore configure -e ./langgraph_agent_runtime.py
 agentcore.yaml
 Dockerfile
 ###📌 Step 8.2: Launch Agent
-agentcore launch --env GROQ_API_KEY="your_api_key"
+agentcore launch --env GROQ_API_KEY=your_api_key
 ###📌 Step 8.3: Invoke Agent
 
 Test your deployed agent:
@@ -145,3 +145,6 @@ Your LangGraph agent is now:
 ✅ Deployable on AWS AgentCore
 ✅ Observable via CloudWatch
 ```
+<img width="683" height="913" alt="image" src="https://github.com/user-attachments/assets/70768ed4-a38a-4e13-b75a-3ff555d920d5" />
+<img width="1327" height="265" alt="image" src="https://github.com/user-attachments/assets/1ac66909-52dd-4f78-ae0c-7be5aa81e4fb" />
+
